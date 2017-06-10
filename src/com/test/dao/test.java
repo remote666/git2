@@ -13,7 +13,7 @@ public class test {
     //rollback回滚
     //show history可以返回历史
     //创建分支:右击工程名字--git---branch--创建--工程本身没有什么变化，但是分支已创建
-    //合并分支:也是在branch里面选项中
+    //合并分支:也是在branch里面选项中，有没有什么不一样master
     public static void main(String[] args) {
 
     }
