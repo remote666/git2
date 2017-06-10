@@ -17,6 +17,7 @@ public class test {
             //刚创建分支后，进入branch...local和以master切换一下，变成master操作主干
 
     public static void main(String[] args) {
-
+        new test();
+        new test();
     }
 }
