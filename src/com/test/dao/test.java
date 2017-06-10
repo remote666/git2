@@ -15,7 +15,7 @@ public class test {
     //创建分支:右击工程名字--git---branch--创建--工程本身没有什么变化，但是分支已创建
     //合并分支:也是在branch里面选项中，有没有什么不一样master
             //刚创建分支后，进入branch...local和以master切换一下，变成master操作主干
-
+    //master更新内容你也需要更新同步: 可以在工程右键单击使用pull更新内容即可
     public static void main(String[] args) {
         new test();
         new test();
