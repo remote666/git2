@@ -10,6 +10,10 @@ public class test {
     //下载:在vcs下checkout下github可以下载相应uri的工程下载下来
     //上传:在vcs下import into verison下有个share。点击可以将git2上传至指定位置
     //提交:右击可以看到git选项，commit按步骤操作即可
+    //rollback回滚
+    //show history可以返回历史
+    //创建分支:右击工程名字--git---branch--创建--工程本身没有什么变化，但是分支已创建
+    //合并分支:也是在branch里面选项中
     public static void main(String[] args) {
 
     }
